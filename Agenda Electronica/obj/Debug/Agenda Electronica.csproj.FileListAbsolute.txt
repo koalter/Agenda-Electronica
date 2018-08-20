@@ -1,0 +1,9 @@
+C:\gitclone\Agenda Electronica\Agenda Electronica\bin\Debug\Agenda Electronica.exe.config
+C:\gitclone\Agenda Electronica\Agenda Electronica\bin\Debug\Agenda Electronica.exe
+C:\gitclone\Agenda Electronica\Agenda Electronica\bin\Debug\Agenda Electronica.pdb
+C:\gitclone\Agenda Electronica\Agenda Electronica\obj\Debug\Agenda Electronica.csprojResolveAssemblyReference.cache
+C:\gitclone\Agenda Electronica\Agenda Electronica\obj\Debug\Agenda_Electronica.Form1.resources
+C:\gitclone\Agenda Electronica\Agenda Electronica\obj\Debug\Agenda_Electronica.Properties.Resources.resources
+C:\gitclone\Agenda Electronica\Agenda Electronica\obj\Debug\Agenda Electronica.csproj.GenerateResource.Cache
+C:\gitclone\Agenda Electronica\Agenda Electronica\obj\Debug\Agenda Electronica.exe
+C:\gitclone\Agenda Electronica\Agenda Electronica\obj\Debug\Agenda Electronica.pdb
